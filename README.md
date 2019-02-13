@@ -51,5 +51,6 @@ free to add yourself to the list):
 
 * [@matklad](https://github.com/matklad)
 * [@pnkfelix](https://github.com/pnkfelix)
+* [@Xanewok](https://github.com/Xanewok)
 
 There's also `WG-rls2.0` working group in the Zulip.
